@@ -5,6 +5,7 @@ A fun and interactive quiz game where the player answers questions about the mov
 ## How to Play
 
 When prompted, read the question and the multiple-choice options.
+
 You can respond by either:
 Entering the number corresponding to your choice (e.g., 1 for the first option).
 Typing the text of the answer directly (e.g., T'Challa).
